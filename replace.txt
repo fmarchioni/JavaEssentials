@@ -1,0 +1,3 @@
+sed -i "s/$(echo -ne '\u200b')//g" *.java
+
+# f7f5f2
