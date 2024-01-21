@@ -20,12 +20,14 @@ public class LambdaExpressions {
 
 
     private static void example2() {
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                System.out.println( "inside runnable using an anonymous inner class");
+        Runnable myRunnable = () -> {
+            // Code to be executed in the new thread
+            for (int i = 0; i < 5; i++) {
+                System.out.println("Thread: " + i);
             }
-        }).start();
+        };
+        new Thread(myRunnable).run();
+
     }
 
     private static void example1() {

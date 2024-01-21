@@ -14,15 +14,13 @@ public class FilesMismatch {
     }
 
     public static void main(String[] args) throws IOException {
-        /*
+
         Path filePath1 = createTempPath("file1");
         Path filePath2 = createTempPath("file2");
 
         Files.writeString(filePath1, "It was a dark and stormy night");
         Files.writeString(filePath2, "It was a dark and stormy night");
-   */
-        Path filePath1 = Path.of("IndentedString.java");
-        Path filePath2 = Path.of("IndentedString.java");
+
 
         long mismatch = Files.mismatch(filePath1, filePath2);
         System.out.println(mismatch == -1 ? "Files identical" : "Files different");
