@@ -1,0 +1,11 @@
+== Java 9 Module Example
+
+To build the Modules:
+----
+javac --module-source-path transitive_module -d out -m moduleA,moduleB,moduleC
+----
+
+To run ModuleC Main Class:
+----
+java --module-path out -m moduleC/package3.Main
+----
