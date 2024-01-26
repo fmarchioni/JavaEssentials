@@ -1,0 +1,21 @@
+== Java 8 Examples
+
+* LambdaExample.java : An example of Lambda Expression (slide 4)
+
+* LambdaExample2.java :Lambda Expression Examples (slide 5)
+
+* ReferenceMethodExample.java: Java Reference Methods (slide 6)
+
+* StreamsExample.java :Streams and Pipelines (slide 7)
+
+* StreamsIntermediateOpsExample.java: Streams Intermediate Operations Examples (slide 8)
+
+* FunctionOpsExample.java : java.util.Function package (slide 9)
+
+* OptionalExamples.java : Optional [1] (slide 10), Optional [2] (slide 11).
+
+* DefaultMethodExample.java : Java Default Methods (slide 12)
+
+* RepeatingAnnotationsExample.java : Repeating Annotations (slide 13)
+
+* TypeAnnotationsExample.java: Java Type Annotations (slide 14)

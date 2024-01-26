@@ -1,0 +1,7 @@
+== Java 10 Example
+
+* InferenceExample.java: Local variable type inference (Slide 21)
+
+
+
+

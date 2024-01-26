@@ -1,0 +1,28 @@
+== Java 21 Examples
+
+* StringTemplateExample.java  (Slide 37)
+
+* RecordPatternExample.java (Slide 38)
+
+* HelloWorld.java (Slide 39)
+
+* VirtualThreadExample.java (Slide 41)
+
+* StructuredConcurrencyExample.java (Slide 42)
+
+* ScopedValueExample.java (Slide 43)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

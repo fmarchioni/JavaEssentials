@@ -1,0 +1,13 @@
+== Java 12 Examples
+
+* FilesMismatchExample.java ( Slide 24)
+
+* IndentedStringExample.java (Slide 24 )
+
+* TeeingCollectorExample.java (Slide 24 )
+
+* TransformedStringExample.java (Slide 24 )
+
+
+
+

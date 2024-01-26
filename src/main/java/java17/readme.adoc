@@ -1,0 +1,27 @@
+== Java 17 Examples
+
+* PatternMatchingExample.java (Slide 30)
+
+* InstantSourceExample.java (Slide 31)
+
+* HexFormatExample.java (Slide 31)
+
+* GeneratorFactoryExample.java (Slide 32)
+
+* DeserializationUtil.java (Slide 32)
+
+* Vehicle.java (Slide 33)
+
+* FFInterfaceExample.java (Slide 34)
+
+
+
+
+
+
+
+
+
+
+
+

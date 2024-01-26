@@ -1,0 +1,11 @@
+== Java 11 Examples
+
+* CollectionToArrayExample.java: New Collection.toArray() method (slide 22)
+
+* StringMethodsExample.java: New String methods (slide 22)
+
+* FilesExample.java: Files.readString() and writeString() (slide 22)
+
+* PathOfExample.java: Path.of() static method  (slide 22)
+
+* HttpClientExample.java: java.net.http.HttpClient (slide 23)

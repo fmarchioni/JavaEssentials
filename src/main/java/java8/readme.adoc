@@ -1,0 +1,21 @@
+== Java 8 Examples
+
+* LambdaExample.java (Slide 4)
+
+* LambdaExample2.java  (Slide 5)
+
+* ReferenceMethodExample.java:   (Slide 6)
+
+* StreamsExample.java   (Slide 7)
+
+* StreamsIntermediateOpsExample.java: (Slide 8)
+
+* FunctionOpsExample.java   (Slide 9)
+
+* OptionalExamples.java  (Slide 11).
+
+* DefaultMethodExample.java (Slide 12)
+
+* RepeatingAnnotationsExample.java (Slide 13)
+
+* TypeAnnotationsExample.java: (Slide 14)
